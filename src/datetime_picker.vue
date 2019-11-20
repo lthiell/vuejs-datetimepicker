@@ -539,7 +539,7 @@
 <style scoped>
 
   .year-month-wrapper {
-    background-color: #ed4d00;
+    background-color: #007bff;
   }
 
   .datetime-picker {
@@ -573,17 +573,17 @@
   }
 
   .days {
-    color: #ed4d00;
+    color: #007bff;
     font-weight: bold;
   }
 
   .port:hover {
-    color: #ed4d00;
+    color: #007bff;
     font-weight: bold;
   }
 
   .activePort, .activePort:hover {
-    background-color: #ed4d00;
+    background-color: #007bff;
     color: white;
   }
 
@@ -596,13 +596,13 @@
   }
 
   .nav-l:hover, .nav-r:hover {
-    background-color: #dc3c00;
+    background-color: #007bff;
   }
 
   .nav-l, .nav-r {
     display: inline-block;
     width: 25px;
-    background-color: #ed4d00;
+    background-color: #007bff;
     color: white;
     font-size: 16px;
     cursor: pointer;
@@ -685,7 +685,7 @@
   }
 
   li.active {
-    background-color: #ed4d00;
+    background-color: #007bff;
     color: white;
   }
 
@@ -705,7 +705,7 @@
   }
 
   .okButton {
-    color: #ed4d00;
+    color: #007bff;
     font-size: 15px;
     font-weight: bold;
     padding: 0;
